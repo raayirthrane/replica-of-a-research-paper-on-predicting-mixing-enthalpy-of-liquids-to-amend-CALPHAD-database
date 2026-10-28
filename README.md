@@ -1,0 +1,2 @@
+# replica-of-a-research-paper-on-predicting-mixing-enthalpy-of-liquids-to-amend-CALPHAD-database
+To develop an ML model to predict G excess, for which we need H excess that we find through a neural network which is designed in such a way that both H and G excess can work on new training data too. Then we feed that H excess to Redlich-Kister (RK) polynomial, to get the Redlich-Kister (RK) parameters which are fitted into CALPHAD database.
